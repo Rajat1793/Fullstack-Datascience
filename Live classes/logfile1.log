@@ -1,0 +1,19 @@
+INFO:root:this is new log file
+WARNING:root:this is a warning message
+INFO:root:4
+WARNING:root:2 is found in a  list
+INFO:root:after the shutdown log
+INFO:root:number entered by user 2 and 5
+INFO:root:inside divide function
+INFO:root:division sucessfull 0.4
+INFO:root:Opening a new file when logging level is CRITICAL
+CRITICAL:root:critical situation
+ERROR:root:[Errno 2] No such file or directory: 'rajat.txt'
+ERROR:root:[Errno 2] No such file or directory: 'rajat.txt'
+Traceback (most recent call last):
+  File "/var/folders/fv/7d20d0s14s5777d0m1bngrcw0000gp/T/ipykernel_49972/2575181185.py", line 21, in <module>
+    with open("rajat.txt", "r"):
+FileNotFoundError: [Errno 2] No such file or directory: 'rajat.txt'
+INFO:root:number entered by user 2 and 5
+INFO:root:inside divide function
+INFO:root:division sucessfull 0.4
